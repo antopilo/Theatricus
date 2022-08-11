@@ -1,0 +1,8 @@
+== Theatricus == 
+Should have external nodes in DLLs. 
+Be as modular as possible.
+Simple and explicit.
+
+Export options as still shots or clips.
+
+Can launch scene as standalone without editor.
